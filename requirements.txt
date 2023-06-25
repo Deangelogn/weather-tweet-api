@@ -1,0 +1,6 @@
+fastapi
+python-dotenv
+Requests
+requests_oauthlib
+starlette
+uvicorn
